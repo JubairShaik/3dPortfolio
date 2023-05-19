@@ -1,5 +1,6 @@
   
 import {
+  Allmart,
   Foodimg,
   mobile,
   backend,
@@ -191,8 +192,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: Allmart,
+    source_code_link: "allmartstore.vercel.app",
   },
   {
     name: "Trip Guide",

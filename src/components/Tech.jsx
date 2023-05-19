@@ -29,19 +29,10 @@ const Tech = () => {
     variants={staggerContainer}
     initial="hidden"
     whileInView="show"
-    viewport={{ once: false, amount: 0.25 }}
+    viewport={{ once: false, amount: 0.55 }}
     className={`lg:w-[80%] w-[100%] mx-auto flex flex-col`}>
   
-
-
-
-    <div className="text-[4rem] mb-10 sm:text-[7rem] font-bold 
-    justify-center flex leading-[5rem] sm:leading-[8rem] items-center bigtext  
-    my-5 flex-col  ">
-    <h2 className="font-Space text-center ">STUDENT FROM <br /></h2>
-    
-    <span className=" text-[6rem] sm:text-[8.6rem] aimltext">AI<span className="font-poppins font-medium text-violet-600 ">&</span>ML</span>
-    </div>
+  
 
 
     <TitleText
@@ -60,6 +51,10 @@ const Tech = () => {
         />
       ))}
     </div>
+    
+
+   
+
 
 
 

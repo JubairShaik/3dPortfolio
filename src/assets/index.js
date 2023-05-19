@@ -30,8 +30,10 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import Foodimg from "./Foodimg.png" ; 
+import Allmart from "./Allmart.png" ; 
 
 export {
+  Allmart,
   Foodimg,
   logo,
   backend,
